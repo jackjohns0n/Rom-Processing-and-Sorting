@@ -38,6 +38,7 @@ rom_folders = {
     #'cso': 'Playstation Portable (PSP)',  # Added .cso files to the Playstation Portable (PSP) folder
     #'iso': 'Nintendo Wii',  # Added .iso files to the Nintendo Wii folder
     #'wbfs': 'Nintendo Wii',  # Added .wbfs files to the Nintendo Wii folder
+    #'iso': 'Xbox',  # Added .iso files to the Xbox folder
     #'iso': 'Xbox 360',  # Added .iso files to the Xbox 360 folder
     #'xex': 'Xbox 360',  # Added .xex files to the Xbox 360 folder
     #'iso': 'Playstation 3',  # Added .iso files to the Playstation 3 folder
