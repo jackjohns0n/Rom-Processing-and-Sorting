@@ -1,6 +1,6 @@
 Welcome to Rom Processing and Sorting!
 
-This program helps you organize your ROM files by extracting them from ZIP or 7z archives and sorting them into folders based on their extensions.
+This program helps you organize your ROM files by extracting them from ZIP or 7z archives and sorting them into folders based on their file extensions.
 
 To use the program:
 1. Click the 'Select Folder' button below.
