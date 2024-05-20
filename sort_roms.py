@@ -21,7 +21,28 @@ rom_folders = {
     'n64': 'Nintendo 64',  # Added .n64 files to the Nintendo 64 folder
     'v64': 'Nintendo 64',  # Added .v64 files to the Nintendo 64 folder
     'z64': 'Nintendo 64',  # Added .z64 files to the Nintendo 64 folder
-    'nds': 'Nintendo DS'  # Added .nds files to the Nintendo DS folder
+    'nds': 'Nintendo DS',  # Added .nds files to the Nintendo DS folder
+    'bin': 'Sega Genesis',  # Added .bin files to the Sega Genesis folder
+    'gen': 'Sega Genesis',  # Added .gen files to the Sega Genesis folder
+    'cdi': 'Sega Dreamcast',  # Added .cdi files to the Sega Dreamcast folder
+    'gdi': 'Sega Dreamcast',  # Added .gdi files to the Sega Dreamcast folder
+    'xci': 'Nintendo Switch',  # Added .xci files to the Nintendo Switch folder
+    'nsp': 'Nintendo Switch'  # Added .nsp files to the Nintendo Switch folder
+    
+    # Not working yet, just added for future reference
+    #'iso': 'Playstation',  # Added .iso files to the Playstation folder
+    #'bin': 'Playstation',  # Added .bin files to the Playstation folder
+    #'iso': 'Playstation 2',  # Added .iso files to the Playstation 2 folder
+    #'bin': 'Playstation 2',  # Added .bin files to the Playstation 2 folder
+    #'iso': 'Playstation Portable (PSP)',  # Added .iso files to the Playstation Portable (PSP) folder
+    #'cso': 'Playstation Portable (PSP)',  # Added .cso files to the Playstation Portable (PSP) folder
+    #'iso': 'Nintendo Wii',  # Added .iso files to the Nintendo Wii folder
+    #'wbfs': 'Nintendo Wii',  # Added .wbfs files to the Nintendo Wii folder
+    #'iso': 'Xbox 360',  # Added .iso files to the Xbox 360 folder
+    #'xex': 'Xbox 360',  # Added .xex files to the Xbox 360 folder
+    #'iso': 'Playstation 3',  # Added .iso files to the Playstation 3 folder
+    #'pkg': 'Playstation 3',  # Added .pkg files to the Playstation 3 folder
+    
 }
 
 def extract_and_move(file_path, extract_folder, source_folder, total_files, progress_bar, progress_label):
